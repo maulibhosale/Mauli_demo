@@ -14,7 +14,7 @@ async function send(){
 }
 
 async function getAIResponse(input) {
-  const API_KEY = "AIzaSyAcOn2AAXdLDB-EcZ6kJ-Elx7zdkdpfUJA";
+  const API_KEY = "new api key";
 
   try {
     const response = await fetch(
